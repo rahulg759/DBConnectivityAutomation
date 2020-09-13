@@ -1,0 +1,1 @@
+Whenever your script is getting failed so first run the SQL Server Services from Configuration Manager (Configure.msc).

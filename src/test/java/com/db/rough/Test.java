@@ -1,4 +1,4 @@
-package com.database.DBTestingFramework;
+package com.db.rough;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;

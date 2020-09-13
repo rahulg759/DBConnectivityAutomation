@@ -37,7 +37,7 @@ public class BaseClass {
 				System.out.println("Driver name: " + dm.getDriverName());
 				System.out.println("Driver version: " + dm.getDriverVersion());
 				System.out.println("Product name: " + dm.getDatabaseProductName());
-				System.out.println("Product version: " + dm.getDatabaseProductVersion());
+				System.out.println("Product version: " + dm.getDatabaseProductVersion()+"\n\n");
 			}	
 		}	
 		catch (Exception e) {
